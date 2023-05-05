@@ -1,11 +1,10 @@
-PROJECT CUỐI KÌ THỰC HÀNH CƠ SỞ DỮ LIỆU
+PROJECT BẢO VỆ ĐỒ ÁN TỐT NGHIỆP
 <br>
-Đề tài: Website bán sách
+Đề tài: Website bán sách 
 <br>
 Thành viên:
-  - Mai Đào Tuấn Thành
-  - Phạm Huy Cảnh
-  - Trần Nam Dương
+  - Nguyễn Văn Cường
+ 
 
 Công nghệ sử dụng: 
   - Front end: HTML/CSS/Javascript + Bootstrap ....
